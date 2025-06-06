@@ -27,10 +27,16 @@ Erosão do solo.
 #### Consequências:
 
 Lista das consequências diretas do desmatamento, como:
-* Aumento das enchentes e erosão do solo.
-* Mudanças climáticas e perda da biodiversidade.
-* Impacto na saúde pública e economia local.
-
+* Mudanças climáticas aceleradas
+* Extinção de espécies
+* Ciclo da água perturbado
+* Desertificação
+* Impacto sobre as comunidades locais
+* Erosão e perda de solo fértil
+* Perda de serviços ecossistêmicos
+* Crises econômicas
+* Alteração dos padrões climáticos globais
+* Aumento de doenças
 #### Conclusão:
 
 Reflexão final sobre a necessidade de ações para combater o desmatamento, incluindo preservação ambiental, reflorestamento e práticas sustentáveis.
